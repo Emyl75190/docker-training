@@ -12,6 +12,7 @@
 	<artifactId>SpringBootDocker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBootDocker</name>
+	<packaging>war</packaging>
 	<description>sping boot with docker</description>
 	<properties>
 		<java.version>17</java.version>
